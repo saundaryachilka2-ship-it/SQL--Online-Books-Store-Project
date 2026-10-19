@@ -19,4 +19,6 @@ This project uses SQL to analyze an Online Book Store database.
 
 ## Objective
 Solved SQL practice questions to improve database querying and data analysis skills.
- 
+
+
+
